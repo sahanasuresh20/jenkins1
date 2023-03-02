@@ -17,7 +17,7 @@ options {
         stage('d') {
             input {
   message 'welcome sahana'
-}
+            }
             steps {
                 echo 'Hello World'
             }
